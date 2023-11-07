@@ -12,4 +12,4 @@ require (
 )
 
 // TODO: remove this after merging the kitex grpc multi-service feature
-replace github.com/cloudwego/kitex => github.com/Marina-Sakai/kitex v0.0.0-20231030012654-522e2fe3f7c7
+replace github.com/cloudwego/kitex => github.com/Marina-Sakai/kitex v0.0.0-20231107122832-402d3f917709
